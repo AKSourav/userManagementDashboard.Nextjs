@@ -38,9 +38,11 @@ Hosted at [Vercel](https://user-management-dashboard-nextjs.vercel.app/)
 ## Demo
 
 ### User Details Tab
-![User Details Tab](https://github.com/AKSourav/userManagement.Nextjs/assets/97042110/59f929c1-eff4-4cf5-b285-524febbf8d01)
+![User Details Tab](https://github.com/AKSourav/userManagementDashboard.Nextjs/assets/97042110/9f29d130-c389-4ccd-8177-47225def6e4f)
+
 ### Account Creation Tab
-![Account Creation Tab](https://github.com/AKSourav/userManagement.Nextjs/assets/97042110/22cb4675-5aa6-497b-8ba0-b1ebcd01717c)
+![Account Creation Tab](https://github.com/AKSourav/userManagementDashboard.Nextjs/assets/97042110/c8f50838-3cb6-4f71-8896-2b92cfe09396)
+
 
 
 ## Deploy on Vercel
