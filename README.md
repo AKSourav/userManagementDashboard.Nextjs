@@ -23,10 +23,17 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Tech Stack Used
+
 * [Next.js](https://nextjs.org/) - Web Application
 * [TypeScript](https://www.typescriptlang.org/docs/) - open source high-level programming language developed by Microsoft
 * [Tailwind CSS](https://tailwindcss.com/docs/) - open source CSS framework
 * [Redux Toolkit](https://redux-toolkit.js.org/) - toolset for efficient Redux development
+
+
+## View live App
+
+Hosted at [Vercel](https://user-management-dashboard-nextjs.vercel.app/)
+
 
 ## Demo
 
